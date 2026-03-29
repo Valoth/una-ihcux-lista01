@@ -9,4 +9,4 @@ Aqui estão os comandos que mais utilizei na aula de Terminal:
 
 ## 📸 Evidência de Execução![Uploading Missao Terminal.png…]()
 
-![Foto do meu terminal](./screenshot.png)
+![Missão Terminal](Missao%20Terminal.png)
