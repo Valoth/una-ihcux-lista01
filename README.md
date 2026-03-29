@@ -7,6 +7,5 @@ Aqui estão os comandos que mais utilizei na aula de Terminal:
 - `type > nul`: Para criar arquivos vazios como por exemplo formatos de texto (.txt).
 - `systeminfo`: Para exibir informações principais do sistemas.
 
-## 📸 Evidência de Execução![Uploading Missao Terminal.png…]()
-
-![Missão Terminal](Missao%20Terminal.png)
+## 📸 Evidência de Execução
+![Missão Terminal](Prática%20dotNet%202/missao-terminal.png)
