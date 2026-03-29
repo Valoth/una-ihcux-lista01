@@ -1,2 +1,12 @@
-# una-ihcux-lista01
-Exercicios de prática quanto ao uso do terminal.
+# ⚡ Meus Comandos Favoritos
+Aqui estão os comandos que mais utilizei na aula de Terminal:
+
+- `cd`: Para navegar entre pastas.
+- `dir`: Para listar arquivos.
+- `mkdir`: Para criar diretórios.
+- `type > nul`: Para criar arquivos vazios como por exemplo formatos de texto (.txt).
+- `systeminfo`: Para exibir informações principais do sistemas.
+
+## 📸 Evidência de Execução![Uploading Missao Terminal.png…]()
+
+![Foto do meu terminal](./screenshot.png)
