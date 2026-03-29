@@ -8,7 +8,7 @@ Aqui estão os comandos que mais utilizei na aula de Terminal:
 - `systeminfo`: Para exibir informações principais do sistemas.
 
 ## 📸 Evidência de Execução
-![Missão Terminal](Prática%20Terminal%202/missao-terminal.png)
+![Missão Terminal](Prática%20Terminal/missao-terminal.png).
 
 ## Informações do Sistema
 
